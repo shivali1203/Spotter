@@ -71,7 +71,7 @@ Mentioned below are the functionalities of spotter app:
 |:---:|:---:|:---:|:---:|
 |<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(2).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(15).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(16).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(17).jpg" width=300>|
 
-|Spot Details||Spot Creation||
+|Spot Details|Spot Details|Spot Creation|Spot Creation|
 |:---:|:---:|:---:|:---:|
 |<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(22).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(23).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(18).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(19).jpg" width=300>|
 |<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(24).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(25).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(21).jpg" width=300>|<image src="https://github.com/spotter-find-your-spot/spotter/blob/main/images/ss%20(26).jpg" width=300>|
